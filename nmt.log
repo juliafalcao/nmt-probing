@@ -1,0 +1,42 @@
+2022-03-07 17:17:21,496 - GPU device name: /device:GPU:0
+2022-03-07 17:17:42,458 - GPU device name: /device:GPU:0
+2022-03-07 17:18:19,798 - GPU device name: /device:GPU:0
+2022-03-07 17:18:59,940 - GPU device name: /device:GPU:0
+2022-03-07 17:20:06,816 - GPU device name: /device:GPU:0
+2022-03-07 17:20:14,626 - Finished collecting data.
+2022-03-07 17:20:42,906 - GPU device name: /device:GPU:0
+2022-03-07 17:20:48,091 - Finished collecting data.
+2022-03-07 17:22:47,310 - GPU device name: /device:GPU:0
+2022-03-07 17:24:13,115 - GPU device name: /device:GPU:0
+2022-03-07 17:24:13,785 - Finished collecting data.
+2022-03-07 17:24:51,145 - GPU device name: /device:GPU:0
+2022-03-07 17:24:51,723 - Finished collecting data.
+2022-03-07 17:24:51,723 - Training set sample:
+2022-03-07 17:26:36,193 - GPU device name: /device:GPU:0
+2022-03-07 17:26:37,122 - Finished collecting data.
+2022-03-07 17:26:37,123 - Training set sample:
+2022-03-07 17:26:37,123 - ['Muito obrigado, Chris. É realmente uma grande honra ter a oportunidade de estar neste palco pela segunda vez. Estou muito agradecido.', 'Eu fui muito aplaudido por esta conferência e quero agradecer a todos pelos muitos comentários delicados sobre o que eu tinha a dizer naquela noite.', 'E quero dizer sinceramente, porque eu preciso  eu preciso disso  Coloquem-se no meu lugar!', 'Eu voei no Força Aérea 2 por oito anos.', 'E hoje tenho que tirar meus sapatos ou botas para entrar num avião!']
+2022-03-07 17:26:37,123 - ["Thank you so much, Chris. And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.", 'I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.', 'And I say that sincerely, partly because  Put yourselves in my position.', 'I flew on Air Force Two for eight years.', 'Now I have to take off my shoes or boots to get on an airplane!']
+2022-03-07 19:37:39,942 - GPU device name: /device:GPU:0
+2022-03-07 19:38:55,937 - GPU device name: /device:GPU:0
+2022-03-07 19:45:34,242 [INFO] GPU device name: /device:GPU:0
+2022-03-07 19:45:53,684 [INFO] GPU device name: /device:GPU:0
+2022-03-07 19:45:54,105 [INFO] Finished collecting data.
+2022-03-07 19:45:54,110 [INFO] Training set sample:
+2022-03-07 19:45:54,110 [INFO] ['Muito obrigado, Chris. É realmente uma grande honra ter a oportunidade de estar neste palco pela segunda vez. Estou muito agradecido.', 'Eu fui muito aplaudido por esta conferência e quero agradecer a todos pelos muitos comentários delicados sobre o que eu tinha a dizer naquela noite.', 'E quero dizer sinceramente, porque eu preciso  eu preciso disso  Coloquem-se no meu lugar!', 'Eu voei no Força Aérea 2 por oito anos.', 'E hoje tenho que tirar meus sapatos ou botas para entrar num avião!']
+2022-03-07 19:45:54,111 [INFO] ["Thank you so much, Chris. And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.", 'I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.', 'And I say that sincerely, partly because  Put yourselves in my position.', 'I flew on Air Force Two for eight years.', 'Now I have to take off my shoes or boots to get on an airplane!']
+2022-03-07 19:47:06,518 [INFO] GPU device name: /device:GPU:0
+2022-03-07 19:47:06,927 [INFO] Finished collecting data.
+2022-03-07 19:47:06,928 [INFO] Training set sample:
+2022-03-07 19:47:06,928 [INFO] ['Muito obrigado, Chris. É realmente uma grande honra ter a oportunidade de estar neste palco pela segunda vez. Estou muito agradecido.', 'Eu fui muito aplaudido por esta conferência e quero agradecer a todos pelos muitos comentários delicados sobre o que eu tinha a dizer naquela noite.', 'E quero dizer sinceramente, porque eu preciso  eu preciso disso  Coloquem-se no meu lugar!', 'Eu voei no Força Aérea 2 por oito anos.', 'E hoje tenho que tirar meus sapatos ou botas para entrar num avião!']
+2022-03-07 19:47:06,929 [INFO] ["Thank you so much, Chris. And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.", 'I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.', 'And I say that sincerely, partly because  Put yourselves in my position.', 'I flew on Air Force Two for eight years.', 'Now I have to take off my shoes or boots to get on an airplane!']
+2022-03-07 19:54:24,936 [INFO] GPU device name: /device:GPU:0
+2022-03-07 19:54:25,508 [INFO] Finished collecting data.
+2022-03-07 19:54:25,513 [INFO] Training set sample:
+2022-03-07 19:54:25,514 [INFO] ['Muito obrigado, Chris. É realmente uma grande honra ter a oportunidade de estar neste palco pela segunda vez. Estou muito agradecido.', 'Eu fui muito aplaudido por esta conferência e quero agradecer a todos pelos muitos comentários delicados sobre o que eu tinha a dizer naquela noite.', 'E quero dizer sinceramente, porque eu preciso  eu preciso disso  Coloquem-se no meu lugar!', 'Eu voei no Força Aérea 2 por oito anos.', 'E hoje tenho que tirar meus sapatos ou botas para entrar num avião!']
+2022-03-07 19:54:25,516 [INFO] ["Thank you so much, Chris. And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.", 'I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.', 'And I say that sincerely, partly because  Put yourselves in my position.', 'I flew on Air Force Two for eight years.', 'Now I have to take off my shoes or boots to get on an airplane!']
+2022-03-07 19:58:35,016 [INFO] GPU device name: /device:GPU:0
+2022-03-07 19:58:35,774 [INFO] Finished collecting data.
+2022-03-07 19:58:35,776 [INFO] Training set sample:
+2022-03-07 19:58:35,776 [INFO] ['Muito obrigado, Chris. É realmente uma grande honra ter a oportunidade de estar neste palco pela segunda vez. Estou muito agradecido.', 'Eu fui muito aplaudido por esta conferência e quero agradecer a todos pelos muitos comentários delicados sobre o que eu tinha a dizer naquela noite.', 'E quero dizer sinceramente, porque eu preciso  eu preciso disso  Coloquem-se no meu lugar!', 'Eu voei no Força Aérea 2 por oito anos.', 'E hoje tenho que tirar meus sapatos ou botas para entrar num avião!']
+2022-03-07 19:58:35,777 [INFO] ["Thank you so much, Chris. And it's truly a great honor to have the opportunity to come to this stage twice; I'm extremely grateful.", 'I have been blown away by this conference, and I want to thank all of you for the many nice comments about what I had to say the other night.', 'And I say that sincerely, partly because  Put yourselves in my position.', 'I flew on Air Force Two for eight years.', 'Now I have to take off my shoes or boots to get on an airplane!']
